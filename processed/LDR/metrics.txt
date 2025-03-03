@@ -1,0 +1,55 @@
+780.png: MAE=18.3576, GMSD=0.0418
+776.png: MAE=19.9373, GMSD=0.0599
+1.png: MAE=19.8270, GMSD=0.0482
+748.png: MAE=19.5407, GMSD=0.0939
+497.png: MAE=33.5928, GMSD=0.0697
+
+
+ans =
+
+    'enhanced_1.png'
+
+
+quality =
+
+    7.9574
+
+
+ans =
+
+    'enhanced_497.png'
+
+
+quality =
+
+    6.8542
+
+
+ans =
+
+    'enhanced_748.png'
+
+
+quality =
+
+    7.8975
+
+
+ans =
+
+    'enhanced_776.png'
+
+
+quality =
+
+    6.7814
+
+
+ans =
+
+    'enhanced_780.png'
+
+
+quality =
+
+    8.9223
